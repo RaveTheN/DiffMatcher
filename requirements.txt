@@ -1,0 +1,11 @@
+# DiffMatcher Requirements
+# Core dependencies
+python-docx>=0.8.11
+
+# Optional dependencies for development and testing
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+
+# Note: python-docx is required for Microsoft Word (.docx) file support
+# Install with: pip install python-docx

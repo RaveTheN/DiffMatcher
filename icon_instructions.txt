@@ -1,0 +1,24 @@
+Icon Instructions for DiffMatcher
+=====================================
+
+To add a custom icon to your executable:
+
+1. Create or download a .ico file (256x256 pixels recommended)
+2. Name it 'icon.ico' and place it in the same folder
+3. Run the build_executable.py script
+
+Suggested icon themes:
+- Two documents with comparison arrows
+- Magnifying glass over documents
+- Side-by-side file comparison
+- Diff/merge symbols
+
+Free icon resources:
+- https://icons8.com (search "file compare")
+- https://www.flaticon.com (search "document compare")
+- https://iconmonstr.com (search "file")
+
+Or create your own using:
+- GIMP (free)
+- Paint.NET (free)
+- Online icon generators

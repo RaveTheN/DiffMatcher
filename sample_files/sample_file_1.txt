@@ -1,0 +1,7 @@
+Hello World!
+This is a sample file for testing.
+It contains multiple lines of text.
+Some lines will be identical.
+Others will be slightly different.
+This line exists in both files.
+End of file 1.

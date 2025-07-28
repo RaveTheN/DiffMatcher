@@ -1,0 +1,9 @@
+# DiffMatcher Requirements
+# Core dependencies (built into Python)
+# tkinter - GUI framework (usually included with Python)
+
+# Optional dependencies for enhanced functionality
+python-docx>=0.8.11  # For Word document support
+
+# Development dependencies (optional)
+# pyinstaller>=4.0  # For building standalone executables
